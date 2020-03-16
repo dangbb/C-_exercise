@@ -1,2 +1,2 @@
 # C-_exercise
-C++ exercise 
+C++ exercise of NH Dang
